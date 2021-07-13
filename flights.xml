@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Flights>
+    <flight>
+        <flightPrice>
+            <currencyValue>4.2</currencyValue>
+            <currencyName>GBP</currencyName>
+        </flightPrice>
+        <originCity>nottingham</originCity>
+        <destinationCity>Derby</destinationCity>
+        <flightAirline>Test Airline</flightAirline>
+        <connectionsNumber>0</connectionsNumber>
+        <availableSeats>10</availableSeats>
+        <originAirportAddress>TestHouse</originAirportAddress>
+        <destinationAirportAddress>TestBuilding</destinationAirportAddress>
+    </flight>
+    <flight>
+        <flightPrice>
+            <currencyValue>4.3</currencyValue>
+            <currencyName>GBP</currencyName>
+        </flightPrice>
+        <originCity>London</originCity>
+        <destinationCity>Pyongyang</destinationCity>
+        <flightAirline>British Air</flightAirline>
+        <connectionsNumber>0</connectionsNumber>
+        <availableSeats>100</availableSeats>
+    </flight>
+    <flight>
+        <flightPrice>
+            <currencyValue>4.3</currencyValue>
+            <currencyName>GBP</currencyName>
+        </flightPrice>
+        <originCity>London</originCity>
+        <destinationCity>Pyongyang</destinationCity>
+        <flightAirline>Air Koryo</flightAirline>
+        <connectionsNumber>2</connectionsNumber>
+        <availableSeats>100</availableSeats>
+    </flight>
+    <flight>
+        <flightPrice>
+            <currencyValue>54.0</currencyValue>
+            <currencyName>GBP</currencyName>
+        </flightPrice>
+        <originCity>Sofia</originCity>
+        <destinationCity>Budapest</destinationCity>
+        <flightAirline>Air Air</flightAirline>
+        <connectionsNumber>2</connectionsNumber>
+        <availableSeats>100</availableSeats>
+    </flight>
+    <flight>
+        <flightPrice>
+            <currencyValue>54.0</currencyValue>
+            <currencyName>GBP</currencyName>
+        </flightPrice>
+        <originCity>Caracas</originCity>
+        <destinationCity>Porto</destinationCity>
+        <flightAirline>Air Air</flightAirline>
+        <connectionsNumber>2</connectionsNumber>
+        <availableSeats>100</availableSeats>
+    </flight>
+    <flight>
+        <flightPrice>
+            <currencyValue>54.0</currencyValue>
+            <currencyName>GBP</currencyName>
+        </flightPrice>
+        <originCity>Santiago</originCity>
+        <destinationCity>Monaco</destinationCity>
+        <flightAirline>Air Air</flightAirline>
+        <connectionsNumber>2</connectionsNumber>
+        <availableSeats>100</availableSeats>
+    </flight>
+</Flights>
