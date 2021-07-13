@@ -17,7 +17,7 @@ import javax.jws.WebService;
 
 /**
  *
- * @author 7734
+ * @author Anthony Langsdale-Foster
  */
 @WebService(serviceName = "flightsBookingWS")
 public class flightsBookingWS {
